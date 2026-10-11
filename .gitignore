@@ -1,0 +1,19 @@
+# compiled gamemodes
+*.amx
+
+# logs
+/logs/
+/log.txt
+*.log
+
+# node
+node_modules/
+
+# editor
+.vscode/settings.json
+.idea/
+
+# server runtime
+/scriptfiles/
+server_log.txt
+crashinfo.txt
